@@ -81,15 +81,7 @@ Hi, I'm Sumukha B G, a passionate AI researcher pursuing my **M.Tech in AI & Mac
 ---
 
 ### 🏅 Badges  
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
-<a href="https://api.badgr.io/public/assertions/3ofBNgf7Qpy78-tsgNUqfA?identity__email=bg.sumukha%40gmail.com">
-<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/3ofBNgf7Qpy78-tsgNUqfA/image"></a>
-<p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600;">Postman API Fundamentals Student Expert</p>
-<p style="margin: 16px 0;">
-<a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2F3ofBNgf7Qpy78-tsgNUqfA%3Fidentity__email%3Dbg.sumukha%2540gmail.com&amp;identity__email=bg.sumukha%40gmail.com" 
-style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; font-size:14px; font-weight: bold; text-decoration: none; padding: 6px 16px; color: black;">
-VERIFY</a></p>
-</blockquote>  
+![Postman - Postman API Fundamentals Student Expert - 2024-10-23](https://github.com/user-attachments/assets/6a471e2b-71ba-4e91-b94c-541fafd2265c)
 
 ---
 
