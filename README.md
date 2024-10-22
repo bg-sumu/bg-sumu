@@ -6,7 +6,7 @@
 ---
 
 ### 👋 About Me  
-Hi, I'm Sumukha B G, a passionate AI researcher pursuing my **M.Tech in AI & Machine Learning** from **IIT Hyderabad**. My experience spans backend engineering, autonomous systems, and simulation frameworks. I enjoy solving real-world problems through machine learning and cloud technologies, with a focus on innovation in mental health, smart cities, and autonomous vehicles.
+Hi, I'm Sumukha B G, a passionate AI researcher pursuing my **M.Tech in AI & Machine Learning** from **IIT Hyderabad**. My work spans backend engineering, autonomous systems, and simulation frameworks. I enjoy using machine learning and cloud technologies to tackle real-world challenges, especially in mental health, smart cities, and autonomous vehicles.
 
 ---
 
@@ -20,21 +20,46 @@ Hi, I'm Sumukha B G, a passionate AI researcher pursuing my **M.Tech in AI & Mac
 - **Software Engineer (Intern)** @ **HevoData** | **Feb 2023 – Aug 2023**  
   - Automated backend API & UI tests using **Pytest** and **Selenium**, reducing manual effort by 55%.  
   - Maintained **AWS databases** to support QA processes with 99% uptime.
-  
+
 - **Software Engineer Trainee** @ **BETSOL** | **Jun 2022 – Jul 2023**  
-  - Developed a CI/CD pipeline for **face detection system** in Swift-code platform.  
+  - Developed a CI/CD pipeline for **face detection system** in Swift-code platform.
 
 ---
 
-### 🏆 Projects & Achievements  
-- **Feelify.AI** (Google GenAI Exchange Top Submission) | [Website](https://symmetric-sylph-437410-j6.el.r.appspot.com/)  
-  - Built a **Flask-based chatbot** using Gemini model to adapt UI color dynamically based on facial emotion detection.  
+### 🏆 Key Projects  
+#### GenAI Models for Predicting Airflow Hotspots in Urban Settings  
+- **Honeywell Sponsored Thesis Project** | **Sep 2024 – Present**  
+- Supervising Professor: **Prof. Sumohana S Channapayya (LFOVIA Lab)**  
+  - Leveraging GenAI models to forecast urban airflow patterns for efficient energy utilization and cooling.
 
-- **GenAI Urban Hotspot Prediction** (Honeywell Sponsored Project) | **Sep 2024 – Present**  
-  - Leveraged **GenAI models** to forecast airflow hotspots in urban settings.  
+#### Feelify.AI  
+- **Top Submission in Google’s GenAI Exchange** | **Sep 2024 – Oct 2024**  
+  - Hosted a **Flask-based chatbot** integrating the Gemini model with a FER model to adapt website colors dynamically based on user emotions.
 
-- **MATLAB Traffic Twin for Hyderabad** (TiHAN Lab) | **Jun 2024 – Sep 2024**  
-  - Developed a **digital twin** for Hyderabad's traffic infrastructure, improving data accuracy by 60%.
+#### Simulations for Autonomous Vehicles  
+- **MATLAB Digital Twin for Hyderabad Traffic** | **Jun 2024 – Sep 2024**  
+  - Developed under **Prof. Rajalakshmi P** at TiHAN Lab.  
+  - Integrated **CLRNet for road detection** and **OMNI3D for vehicle identification**, improving data accuracy by 60%.
+
+#### Suzuki Project (IITH & TiHAN Collaboration)  
+- **Jan 2024 – Aug 2024**  
+  - Built a comprehensive simulation framework using **CARLA** for evaluating innovative sensor setups and **Automatic Emergency Braking** algorithms, achieving a 50% cost reduction.
+
+#### Multi-Media Content Analysis (CS6880 Course Project)  
+- **Jan 2024 – Apr 2024**  
+  - Reproduced results from the paper *"Revisiting Unsupervised Domain Adaptation Models: A Smoothness Perspective" (ACCV22).*  
+  - Created a multi-label dataset with **18K images** and **26 labels across 4 domains**.
+
+---
+
+### 📌 Positions of Responsibility  
+- **Website Developer, AI Department (IIT Hyderabad)** | **Jan 2024 – Present**  
+  - Manage all activities of the AI department’s official website, improving architecture, design, and functionality.  
+  - Achieved a **25% increase in user engagement**, **30% improvement in page load times**, and ensured stable performance for 200+ daily visitors.
+
+- **AI Industry Lectures Co-Ordinator (AI5016)** | **Jan 2024 – Apr 2024**  
+  - Orchestrated **five high-impact industry lectures**, engaging over 200 attendees.  
+  - Collaborated with experts from startups and MNCs, fostering networking opportunities and boosting industry visibility in AI.
 
 ---
 
@@ -44,28 +69,39 @@ Hi, I'm Sumukha B G, a passionate AI researcher pursuing my **M.Tech in AI & Mac
 
 ---
 
+### 🎓 Certifications  
+- **Deep Learning and Neural Networks**  
+- **Machine Learning**  
+- **Cloud Computing using AWS**  
+- **Web-App Designing**  
+- **System Design**  
+- **Data Structures and Algorithms (DSA)**  
+- [Certification Link](https://drive.google.com/drive/folders/1Qk-Ops9a1q4bp_hopiF5f-IXRsQDwzsH)  
+
+---
+
 ### 🏅 Badges  
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;">
 <a href="https://api.badgr.io/public/assertions/3ofBNgf7Qpy78-tsgNUqfA?identity__email=bg.sumukha%40gmail.com">
 <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/3ofBNgf7Qpy78-tsgNUqfA/image"></a>
-<p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p>
-<p style="margin: 16px 0; padding: 0;">
+<p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600;">Postman API Fundamentals Student Expert</p>
+<p style="margin: 16px 0;">
 <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2F3ofBNgf7Qpy78-tsgNUqfA%3Fidentity__email%3Dbg.sumukha%2540gmail.com&amp;identity__email=bg.sumukha%40gmail.com" 
-style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">
+style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; font-size:14px; font-weight: bold; text-decoration: none; padding: 6px 16px; color: black;">
 VERIFY</a></p>
 </blockquote>  
 
 ---
 
 ### 🌟 Awards  
-- **Reliance Foundation Postgraduate Scholarship** (2024) – Awarded to top 100 students in India for academic excellence.  
-- **Appreciation Letter from Government of Karnataka** (2020) – For voluntary service in COVID-19 MIS coordination.  
+- **Reliance Foundation Postgraduate Scholarship** (2024) – Recognized among the top 100 students in India for academic excellence.  
+- **Appreciation Letter from the Government of Karnataka** (2020) – For voluntary service in COVID-19 MIS coordination.
 
 ---
 
 ### 🔗 Get in Touch  
-- **Email:** [bg.sumukha@gmail.com](mailto:bg.sumukha@gmail.com)  
+- **Email:** [bg.sumukha@gmail.com](mailto:bg.sumukha@gmail.com)
 
 ---
 
-Feel free to connect or explore my repositories and projects. I’m always excited to collaborate on AI research and innovative projects!
+Feel free to connect or explore my repositories and projects. I’m always excited to collaborate on AI research and innovative ventures!
