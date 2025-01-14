@@ -11,7 +11,7 @@ Hi, I'm Sumukha B G, a passionate AI researcher pursuing my **M.Tech in AI & Mac
 ---
 
 ### 🎓 Education  
-- **M.Tech AI & ML** – IIT Hyderabad (Graduating July 2025) | **CGPA:** 7.51  
+- **M.Tech AI & ML** – IIT Hyderabad (Graduating July 2025) | **CGPA:** 8.2  
 - **B.Tech in CS & IT** – Reva University (Graduated July 2023) | **CGPA:** 9.36  
 
 ---
